@@ -1,0 +1,33 @@
+﻿using UnityEngine;
+using System.Collections;
+
+public class Menu : MonoBehaviour {
+	private Animator animator;
+	private CanvasGroup canvasGroup;
+
+	public bool IsOpen{
+		get{ return animator.GetBool ("IsOpen");}
+		set{ animator.SetBool ("IsOpen", value);}
+	}
+
+	public void Awake(){
+		animator = GetComponent<Animator> ();
+		canvasGroup = GetComponent<CanvasGroup> ();
+
+		var rect = GetComponent<RectTransform> ();
+		rect.offsetMax = new Vector2 (0, 0);
+		rect.offsetMin = new Vector2 (0, 0);
+	}
+
+	public void Update(){
+		if (!animator.GetCurrentAnimatorStateInfo (0).IsName ("Open")) {
+			canvasGroup.blocksRaycasts = false;
+			canvasGroup.interactable = false;
+		} else {
+			canvasGroup.blocksRaycasts = true;
+			canvasGroup.interactable = true;
+		}
+	}
+
+
+}

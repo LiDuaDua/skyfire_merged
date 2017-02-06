@@ -1,0 +1,67 @@
+/Users/Shared/Unity/2d platformer/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/Shared/Unity/2d platformer/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/Shared/Unity/2d platformer/obj/Debug/Assembly-CSharp.dll
+/Users/Shared/Unity/2d platformer/obj/Debug/Assembly-CSharp.dll.mdb
+/Users/Shared/Unity/2d platformer/Temp/bin/Debug/UnityEngine.dll
+/Users/Shared/Unity/2d platformer/Temp/bin/Debug/UnityEditor.dll
+/Users/Shared/Unity/2d platformer/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/Shared/Unity/2d platformer/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/Shared/Unity/2d platformer/Temp/bin/Debug/UnityEngine.PlaymodeTestsRunner.dll
+/Users/Shared/Unity/2d platformer/Temp/bin/Debug/UnityEngine.Analytics.dll
+/Users/Shared/Unity/2d platformer/Temp/bin/Debug/UnityEngine.HoloLens.dll
+/Users/Shared/Unity/2d platformer/Temp/bin/Debug/UnityEngine.VR.dll
+/Users/Shared/Unity/2d platformer/Temp/bin/Debug/Assembly-CSharp-firstpass.dll
+/Users/Shared/Unity/2d platformer/Temp/bin/Debug/Assembly-CSharp-firstpass.dll.mdb
+/Users/Shared/Unity/2d platformer/Temp/bin/Debug/Mono.Cecil.dll
+/Users/Shared/Unity/2d platformer/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/Shared/Unity/2d platformer/Temp/bin/Debug/Unity.DataContract.dll
+/Users/Shared/Unity/2d platformer/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/Shared/Unity/2d platformer/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/Shared/Unity/2d platformer/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/Shared/Unity/2d platformer/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/Shared/Unity/2d platformer/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/Shared/Unity/2d platformer/Temp/bin/Debug/Mono.Cecil.Mdb.dll
+/Users/zhongliuli/Downloads/2d platformer/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/zhongliuli/Downloads/2d platformer/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/zhongliuli/Downloads/2d platformer/obj/Debug/Assembly-CSharp.dll
+/Users/zhongliuli/Downloads/2d platformer/obj/Debug/Assembly-CSharp.dll.mdb
+/Users/zhongliuli/Downloads/2d platformer/Temp/bin/Debug/UnityEngine.dll
+/Users/zhongliuli/Downloads/2d platformer/Temp/bin/Debug/UnityEditor.dll
+/Users/zhongliuli/Downloads/2d platformer/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/zhongliuli/Downloads/2d platformer/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/zhongliuli/Downloads/2d platformer/Temp/bin/Debug/UnityEngine.PlaymodeTestsRunner.dll
+/Users/zhongliuli/Downloads/2d platformer/Temp/bin/Debug/UnityEngine.Analytics.dll
+/Users/zhongliuli/Downloads/2d platformer/Temp/bin/Debug/UnityEngine.HoloLens.dll
+/Users/zhongliuli/Downloads/2d platformer/Temp/bin/Debug/UnityEngine.VR.dll
+/Users/zhongliuli/Downloads/2d platformer/Temp/bin/Debug/Mono.Cecil.dll
+/Users/zhongliuli/Downloads/2d platformer/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/zhongliuli/Downloads/2d platformer/Temp/bin/Debug/Unity.DataContract.dll
+/Users/zhongliuli/Downloads/2d platformer/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/zhongliuli/Downloads/2d platformer/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/zhongliuli/Downloads/2d platformer/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/zhongliuli/Downloads/2d platformer/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/zhongliuli/Downloads/2d platformer/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/zhongliuli/Downloads/2d platformer/Temp/bin/Debug/Mono.Cecil.Mdb.dll
+/Users/zhongliuli/Desktop/Skyfire/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/zhongliuli/Desktop/Skyfire/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/zhongliuli/Desktop/Skyfire/obj/Debug/Assembly-CSharp.dll
+/Users/zhongliuli/Desktop/Skyfire/obj/Debug/Assembly-CSharp.dll.mdb
+/Users/zhongliuli/Desktop/Skyfire/Temp/bin/Debug/UnityEngine.dll
+/Users/zhongliuli/Desktop/Skyfire/Temp/bin/Debug/UnityEditor.dll
+/Users/zhongliuli/Desktop/Skyfire/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/zhongliuli/Desktop/Skyfire/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/zhongliuli/Desktop/Skyfire/Temp/bin/Debug/UnityEngine.PlaymodeTestsRunner.dll
+/Users/zhongliuli/Desktop/Skyfire/Temp/bin/Debug/UnityEngine.Analytics.dll
+/Users/zhongliuli/Desktop/Skyfire/Temp/bin/Debug/UnityEngine.HoloLens.dll
+/Users/zhongliuli/Desktop/Skyfire/Temp/bin/Debug/UnityEngine.VR.dll
+/Users/zhongliuli/Desktop/Skyfire/Temp/bin/Debug/Assembly-CSharp-firstpass.dll
+/Users/zhongliuli/Desktop/Skyfire/Temp/bin/Debug/Assembly-CSharp-firstpass.dll.mdb
+/Users/zhongliuli/Desktop/Skyfire/Temp/bin/Debug/Mono.Cecil.dll
+/Users/zhongliuli/Desktop/Skyfire/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/zhongliuli/Desktop/Skyfire/Temp/bin/Debug/Unity.DataContract.dll
+/Users/zhongliuli/Desktop/Skyfire/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/zhongliuli/Desktop/Skyfire/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/zhongliuli/Desktop/Skyfire/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/zhongliuli/Desktop/Skyfire/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/zhongliuli/Desktop/Skyfire/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/zhongliuli/Desktop/Skyfire/Temp/bin/Debug/Mono.Cecil.Mdb.dll
