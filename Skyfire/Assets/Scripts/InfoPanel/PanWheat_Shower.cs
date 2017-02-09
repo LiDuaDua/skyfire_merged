@@ -10,6 +10,6 @@ public class PanWheat_Shower : MonoBehaviour {
 	}
 
 	public void Update(){
-		text.text = Property.wheat + "";
+		text.text = "Wheat" + "  " + Property.wheat + "";
 	}
 }

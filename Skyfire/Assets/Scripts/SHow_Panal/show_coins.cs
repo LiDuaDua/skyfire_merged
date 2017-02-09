@@ -13,6 +13,6 @@ public class show_coins : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
-		coinsNum.text = Property.coins + "";
+		coinsNum.text = "Coins" + "  " + Property.coins;
 	}
 }

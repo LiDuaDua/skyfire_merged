@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 
 public class PlayerControllerExp : MonoBehaviour {
-    public float playerSpeed;
+    public float playerSpeed = 5;
     private Animator anim1;
     private Rigidbody2D myrigidbody;
 

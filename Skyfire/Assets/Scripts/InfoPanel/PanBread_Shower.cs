@@ -13,6 +13,6 @@ public class PanBread_Shower : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
-		text.text = Property.bread + "";
+		text.text = "Bread" + "  " + Property.bread;
 	}
 }

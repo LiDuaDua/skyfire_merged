@@ -65,3 +65,26 @@
 /Users/zhongliuli/Desktop/Skyfire/Temp/bin/Debug/Unity.CecilTools.dll
 /Users/zhongliuli/Desktop/Skyfire/Temp/bin/Debug/Mono.Cecil.Pdb.dll
 /Users/zhongliuli/Desktop/Skyfire/Temp/bin/Debug/Mono.Cecil.Mdb.dll
+/Users/zhongliuli/Documents/495 Game/Skyfire-merged/Skyfire/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/zhongliuli/Documents/495 Game/Skyfire-merged/Skyfire/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/zhongliuli/Documents/495 Game/Skyfire-merged/Skyfire/obj/Debug/Assembly-CSharp.dll
+/Users/zhongliuli/Documents/495 Game/Skyfire-merged/Skyfire/obj/Debug/Assembly-CSharp.dll.mdb
+/Users/zhongliuli/Documents/495 Game/Skyfire-merged/Skyfire/Temp/bin/Debug/UnityEngine.dll
+/Users/zhongliuli/Documents/495 Game/Skyfire-merged/Skyfire/Temp/bin/Debug/UnityEditor.dll
+/Users/zhongliuli/Documents/495 Game/Skyfire-merged/Skyfire/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/zhongliuli/Documents/495 Game/Skyfire-merged/Skyfire/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/zhongliuli/Documents/495 Game/Skyfire-merged/Skyfire/Temp/bin/Debug/UnityEngine.PlaymodeTestsRunner.dll
+/Users/zhongliuli/Documents/495 Game/Skyfire-merged/Skyfire/Temp/bin/Debug/UnityEngine.Analytics.dll
+/Users/zhongliuli/Documents/495 Game/Skyfire-merged/Skyfire/Temp/bin/Debug/UnityEngine.HoloLens.dll
+/Users/zhongliuli/Documents/495 Game/Skyfire-merged/Skyfire/Temp/bin/Debug/UnityEngine.VR.dll
+/Users/zhongliuli/Documents/495 Game/Skyfire-merged/Skyfire/Temp/bin/Debug/Assembly-CSharp-firstpass.dll
+/Users/zhongliuli/Documents/495 Game/Skyfire-merged/Skyfire/Temp/bin/Debug/Assembly-CSharp-firstpass.dll.mdb
+/Users/zhongliuli/Documents/495 Game/Skyfire-merged/Skyfire/Temp/bin/Debug/Mono.Cecil.dll
+/Users/zhongliuli/Documents/495 Game/Skyfire-merged/Skyfire/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/zhongliuli/Documents/495 Game/Skyfire-merged/Skyfire/Temp/bin/Debug/Unity.DataContract.dll
+/Users/zhongliuli/Documents/495 Game/Skyfire-merged/Skyfire/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/zhongliuli/Documents/495 Game/Skyfire-merged/Skyfire/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/zhongliuli/Documents/495 Game/Skyfire-merged/Skyfire/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/zhongliuli/Documents/495 Game/Skyfire-merged/Skyfire/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/zhongliuli/Documents/495 Game/Skyfire-merged/Skyfire/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/zhongliuli/Documents/495 Game/Skyfire-merged/Skyfire/Temp/bin/Debug/Mono.Cecil.Mdb.dll
