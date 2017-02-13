@@ -48,6 +48,8 @@ public class Escape : MonoBehaviour {
 
 			if (restartTimer >= restartDelay)
 			{
+				CharacterPos.setTent ();
+
 				SceneManager.LoadScene ("Scenes/DarkWorld", LoadSceneMode.Single);
 			}
 

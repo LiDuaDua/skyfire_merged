@@ -17,6 +17,10 @@ public class TreeCollider : MonoBehaviour {
 
 	public void OnTriggerEnter2D(Collider2D some){
 		if (some.gameObject.tag == "Player") {
+			CharacterPos.pos = GameObject.FindGameObjectWithTag ("Fight").transform.position;
+
+			CharacterPos.pos.y -= 1.2f;
+
 			SceneManager.LoadScene("Scenes/level1", LoadSceneMode.Single);
 			Debug.Log ("kjasdhfkl");
 		}
