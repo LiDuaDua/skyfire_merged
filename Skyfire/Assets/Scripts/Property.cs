@@ -7,6 +7,11 @@ public class Property : MonoBehaviour {
 	public static int bread;
 	public static int wheat;
 
+	public static int curArmySize = 0;
+	//public static int curWorkingCf = 0;
+	public static int maxArmySize = Building_Manager.camp * 5;
+	public static int maxCraftman = Building_Manager.hut * 5;
+
 	private float nextTime;
 	private float interval;
 

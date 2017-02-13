@@ -5,7 +5,7 @@ public class Craftman_Manager : MonoBehaviour {
 
 	public Craftman_Manager cf_manager;
 
-	public static int num_cf = Building_Manager.hut * 5;
+	public static int num_cf = Property.maxCraftman;
 	public static int used_cft = 0;
 
 	public static int famer = 0;

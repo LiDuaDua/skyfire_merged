@@ -39,6 +39,10 @@ public class Exploration_Manager : MonoBehaviour {
 		Backpack.size = backpack_size;
 		Backpack.used = backpack_used;
 
+		Property.curArmySize = Property.curArmySize - Fighter.size * fighter - Archer.size * archer;
+		Training_Manager.fighter -= fighter;
+		Training_Manager.archer -= archer;
+
 		Debug.Log ("damage:" + Army.damage);
 		Debug.Log ("HP:" + Army.HP);
 	}
@@ -64,44 +68,30 @@ public class Exploration_Manager : MonoBehaviour {
 	}
 
 	public void addFighter(){
-		if (team_used < team_size && Training_Manager.fighter > 0) {
+		if (Training_Manager.fighter > fighter) {
 			fighter++;
-			team_used++;
-			Training_Manager.fighter--;
-		} else if (Training_Manager.fighter == 0) {
-			Debug.Log ("No enough fighter!");
 		} else {
-			Debug.Log ("Team is full");
-		}
+			Debug.Log ("No enough fighter!");
+		} 
 	}
 
 	public void minusFighter(){
 		if (fighter > 0) {
 			fighter--;
-			team_size++;
-			Training_Manager.fighter++;
 		}
 	}
 
 	public void addArcher(){
-		if (team_used < team_size && Training_Manager.archer > 0) {
+		if (Training_Manager.archer > archer) {
 			archer++;
-			team_used++;
-			Training_Manager.archer--;
-		} else if (Training_Manager.archer == 0) {
-			Debug.Log ("No enough archer!");
 		} else {
-			Debug.Log ("Team is full");
-		}
+			Debug.Log ("No enough archer!");
+		} 
 	}
 
 	public void minusArcher(){
 		if (archer > 0) {
 			archer--;
-			team_size++;
-			Training_Manager.archer++;
 		}
 	}
-
-
 }
