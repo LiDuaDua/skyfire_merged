@@ -3,9 +3,9 @@ using System.Collections;
 
 public class Property : MonoBehaviour {
 
-	public static int coins;
-	public static int bread;
-	public static int wheat;
+	public static int coins = 200;
+	public static int bread = 200;
+	public static int wheat = 200;
 
 	public static int curArmySize = 0;
 	//public static int curWorkingCf = 0;
@@ -18,7 +18,6 @@ public class Property : MonoBehaviour {
 
 
 	public void Start(){
-		coins = 0;
 		nextTime = 0;
 		interval = 3;
 	}

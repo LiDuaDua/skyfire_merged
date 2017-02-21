@@ -1,12 +1,16 @@
 ﻿<Properties StartupItem="Assembly-CSharp.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Exploration Scene/CharacterPos.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Exploration/Exploration_Manager.cs">
     <Files>
-      <File FileName="Assets/Scripts/Exploration Scene/CharacterPos.cs" Line="10" Column="15" />
-      <File FileName="Assets/Scripts/Exploration Scene/TentCollider.cs" Line="6" Column="44" />
-      <File FileName="Assets/Scripts/Exploration Scene/PlayerControllerExp.cs" Line="21" Column="32" />
-      <File FileName="Assets/Scripts/Exploration Scene/TreeCollider.cs" Line="22" Column="31" />
-      <File FileName="Assets/DarkWorld/Scripts/Escape.cs" Line="51" Column="29" />
+      <File FileName="Assets/DarkWorld/Scripts/Show_Fighter_Num.cs" Line="17" Column="33" />
+      <File FileName="Assets/Scripts/Exploration/Exploration_Manager.cs" Line="18" Column="17" />
+      <File FileName="Assets/DarkWorld/Scripts/Draggable.cs" Line="36" Column="3" />
+      <File FileName="Assets/Scripts/Exploration Scene/CameraController.cs" Line="6" Column="35" />
+      <File FileName="Assets/Scripts/Exploration Scene/PlayerControllerExp.cs" Line="14" Column="10" />
+      <File FileName="Assets/Scripts/Exploration Scene/CharacterPos.cs" Line="20" Column="17" />
+      <File FileName="Assets/DarkWorld/Scripts/PlayerInFight.cs" Line="7" Column="20" />
+      <File FileName="Assets/DarkWorld/Scripts/Enemy.cs" Line="124" Column="39" />
+      <File FileName="Assets/Scripts/Exploration/Backpack.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

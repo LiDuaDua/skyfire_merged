@@ -46,15 +46,25 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\CharacterPack\Sample\Sample.cs" />
+     <Compile Include="Assets\DarkWorld\Scripts\ArcherControl.cs" />
      <Compile Include="Assets\DarkWorld\Scripts\BGScroller.cs" />
      <Compile Include="Assets\DarkWorld\Scripts\Bread.cs" />
+     <Compile Include="Assets\DarkWorld\Scripts\Draggable.cs" />
+     <Compile Include="Assets\DarkWorld\Scripts\Enemy.cs" />
      <Compile Include="Assets\DarkWorld\Scripts\EnemyAttack.cs" />
      <Compile Include="Assets\DarkWorld\Scripts\EnemyController.cs" />
      <Compile Include="Assets\DarkWorld\Scripts\EnemyHealth.cs" />
      <Compile Include="Assets\DarkWorld\Scripts\Escape.cs" />
+     <Compile Include="Assets\DarkWorld\Scripts\Failed.cs" />
+     <Compile Include="Assets\DarkWorld\Scripts\FighterController.cs" />
      <Compile Include="Assets\DarkWorld\Scripts\PlayerAttack.cs" />
      <Compile Include="Assets\DarkWorld\Scripts\PlayerController.cs" />
      <Compile Include="Assets\DarkWorld\Scripts\PlayerHealth.cs" />
+     <Compile Include="Assets\DarkWorld\Scripts\PlayerInFight.cs" />
+     <Compile Include="Assets\DarkWorld\Scripts\Show_Archer_Num.cs" />
+     <Compile Include="Assets\DarkWorld\Scripts\Show_Fighter_Num.cs" />
+     <Compile Include="Assets\DarkWorld\Scripts\WizardControl.cs" />
      <Compile Include="Assets\Scripts\Alchemy.cs" />
      <Compile Include="Assets\Scripts\Buiding\Building_Manager.cs" />
      <Compile Include="Assets\Scripts\Buiding\Camp_Shower.cs" />

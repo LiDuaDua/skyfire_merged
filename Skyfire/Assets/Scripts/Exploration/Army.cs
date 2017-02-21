@@ -3,7 +3,7 @@ using System.Collections;
 
 public class Army : MonoBehaviour {
 
-	public static int HP;
-	public static int damage;
+	public static int fighter =5;
+	public static int archer =5;
 
 }

@@ -21,7 +21,7 @@ public class TreeCollider : MonoBehaviour {
 
 			CharacterPos.pos.y -= 1.2f;
 
-			SceneManager.LoadScene("Scenes/level1", LoadSceneMode.Single);
+			SceneManager.LoadScene("Scenes/TowerDefence", LoadSceneMode.Single);
 			Debug.Log ("kjasdhfkl");
 		}
 	}

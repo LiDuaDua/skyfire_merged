@@ -16,7 +16,7 @@ public class Exploration_Manager : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
-		backpack_size = 15;
+		backpack_size = 1000;
 		backpack_used = 0;
 		bread = 0;
 
@@ -32,8 +32,9 @@ public class Exploration_Manager : MonoBehaviour {
 	}
 
 	public void depart(){
-		Army.damage = 1 * fighter + 2 * archer;
-		Army.HP = 2 * fighter + 1 * archer;
+	
+		Army.fighter = fighter;
+		Army.archer = archer;
 
 		Backpack.bread = bread;
 		Backpack.size = backpack_size;
@@ -42,9 +43,6 @@ public class Exploration_Manager : MonoBehaviour {
 		Property.curArmySize = Property.curArmySize - Fighter.size * fighter - Archer.size * archer;
 		Training_Manager.fighter -= fighter;
 		Training_Manager.archer -= archer;
-
-		Debug.Log ("damage:" + Army.damage);
-		Debug.Log ("HP:" + Army.HP);
 	}
 
 	public void addBread(){

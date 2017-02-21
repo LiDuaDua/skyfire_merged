@@ -2,23 +2,28 @@
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
+using UnityEngine.UI;
 
 public class PlayerControllerExp : MonoBehaviour {
     public float playerSpeed = 5;
     private Animator anim1;
     private Rigidbody2D myrigidbody;
     public int playerSteps = 0;
+	public Text breadtext;
 
 	// Use this for initialization
 	void Start () {
 		gameObject.GetComponent<Transform> ().position = CharacterPos.pos;
         anim1 = GetComponent<Animator>();
         myrigidbody = GetComponent<Rigidbody2D>();
+		breadtext.text = "Bread: " + Mathf.Ceil (Backpack.bread);
 	}
 	
 	// Update is called once per frame
 	void Update () {
-        Debug.Log(playerSteps);
+
+		breadtext.text = "Bread: " + Mathf.Floor (Backpack.bread);
+
         if (needBread()==true)
         {
             SceneManager.LoadScene("Scenes/DarkWorld", LoadSceneMode.Single);
